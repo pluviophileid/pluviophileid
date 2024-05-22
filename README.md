@@ -34,7 +34,6 @@ I'm PluviophileID, a Chief Surveyor and GIS Data Engineer with a passion for GIS
 ## 📫 How to reach me
 
 - wppratamaa@gmail.com
-- [LinkedIn Profile]
 
 Feel free to connect with me to discuss anything related to GIS, mapping, remote sensing, or data processing using Python! I'm always eager to learn and collaborate.
 
